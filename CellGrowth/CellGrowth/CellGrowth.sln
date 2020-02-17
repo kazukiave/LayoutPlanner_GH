@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CellGrowth", "CellGrowth\CellGrowth.csproj", "{11C08ACC-7BF2-4318-8930-C3D9A2FB92EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C08ACC-7BF2-4318-8930-C3D9A2FB92EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C08ACC-7BF2-4318-8930-C3D9A2FB92EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C08ACC-7BF2-4318-8930-C3D9A2FB92EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C08ACC-7BF2-4318-8930-C3D9A2FB92EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A304A66-CFA5-4983-ACAD-5971245F6FF6}
+	EndGlobalSection
+EndGlobal
